@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Ghazal's Pages
 
-You can use the [editor on GitHub](https://github.com/ghazalhasani/GhazalHasani/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Bio**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mahdie (Ghazal) Hasani is a civil engineer in the field of Transportation Engineering from San Diego, California. He is currently working as a graduate research assistant at San Diego State University Smart Transportation Analytics Research lab. Mahdie is originally from Tehran, Iran. He received his Bachelors’ degree in civil engineering from Amirkabir University of Technology in 2016. His passion for learning and education encouraged him to travel to the United Sates to pursue his Master’s degree in Transportation Engineering at San Diego State University. Mahdie’s research work is mainly focused on traffic safety especially pedestrians and bicyclists within Big Data area. 
 
-### Markdown
+**Intrest**
+- School clubs
+- hiking
+- skating
+- hanging out with friends
+- playing guitar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Contact Me**
 
-```markdown
-Syntax highlighted code block
+mhasani@sdsu.edu
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ghazalhasani/GhazalHasani/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
